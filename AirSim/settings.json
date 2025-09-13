@@ -1,0 +1,388 @@
+{
+    "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/main/docs/settings.md",
+    "SettingsVersion": 1.2,
+    "SimMode": "Multirotor",
+    "ClockSpeed": 1,
+    "ViewMode": "NoDisplay",
+  
+    "Vehicles": {
+    "Drone1": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -2, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+        "Drone2": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -6, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone3": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -10, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone4": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -14, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone5": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -18, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone6": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -22, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone7": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -26, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone8": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -30, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone9": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -34, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone10": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -38, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone11": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -42, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone12": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -46, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone13": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -50, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+            "Drone14": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -54, "Y": 0.5, "Z": -2, "Yaw": 0
+        },
+                    "Drone15": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AutoCreate": true,
+            "EnableCollisionPassthrogh": false,
+            "EnableCollisions": true,
+            "AllowAPIAlways": true,
+            "RC": {
+                "RemoteControlID": 0,
+                "AllowAPIWhenDisconnected": false
+            },
+            "Cameras": {
+                "front_center": {
+                    "CaptureSettings": [
+                        {
+                            "ImageType": 0,
+                            "Width": 640,
+                            "Height": 480,
+                            "FOV_Degrees": 90
+                        }
+                    ]
+                }
+            },
+              "X": -58, "Y": 0.5, "Z": -2, "Yaw": 0
+        }
+
+
+    }
+  
+  }

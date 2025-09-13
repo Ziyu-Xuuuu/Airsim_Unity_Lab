@@ -25,9 +25,10 @@ set(CXX_EXP_LIB "-nostdinc++ -I/usr/include/c++/8 -I/usr/include/x86_64-linux-gn
 # set(RPC_LIB_INCLUDES "/home/sgari/iral_research/AirSim/external/rpclib/rpclib-2.3.0/include")
 
 # NOTE: below is for docker container!
-set(RPC_LIB_INCLUDES "/home/airsim_user/AirSim/external/rpclib/rpclib-2.3.0/include")
+#set(RPC_LIB_INCLUDES "/home/airsim_user/AirSim/external/rpclib/rpclib-2.3.0/include")
 
-set(RPC_LIB rpc) # name of .a file with lib prefix
+set(RPC_LIB_INCLUDES "/home/airsim/Resource-Aware-Coordination-AirSim/AirSim/external/rpclib/rpclib-2.3.0/include")
+#set(RPC_LIB rpc) # name of .a file with lib prefix
 message(STATUS "found RPC_LIB_INCLUDES=${RPC_LIB_INCLUDES}")
 
 # todo eigen3 in AirLib already

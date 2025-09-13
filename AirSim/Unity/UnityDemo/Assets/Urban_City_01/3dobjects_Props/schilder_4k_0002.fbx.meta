@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 30c0107bc75afbe4680370c0822e2049
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: schild_0002_achtung_a
+    100004: schild_0002_achtung_b
+    100006: schild_0002_ampel
+    100008: schild_0002_baustelle_a
+    100010: schild_0002_baustelle_b
+    100012: schild_0002_baustelle_c
+    100014: schild_0002_bodenwellen
+    100016: schild_0002_fahrbahnverengung_beidseitig
+    100018: schild_0002_fahrbahnverengung_links
+    100020: schild_0002_fahrbahnverengung_rechts
+    100022: schild_0002_fussgaenger_kreuzen
+    100024: schild_0002_linkskurve
+    100026: schild_0002_rechtskurve
+    100028: schild_0002_s_kurve
+    100030: schild_0002_spielende_Kinder
+    100032: schild_0002_strassenbahn
+    100034: schild_0002_vorfahrt_achten_a
+    100036: schild_0002_vorfahrt_achten_b
+    100038: schild_0002_wildwechsel
+    100040: //RootNode
+    400000: Camera
+    400002: schild_0002_achtung_a
+    400004: schild_0002_achtung_b
+    400006: schild_0002_ampel
+    400008: schild_0002_baustelle_a
+    400010: schild_0002_baustelle_b
+    400012: schild_0002_baustelle_c
+    400014: schild_0002_bodenwellen
+    400016: schild_0002_fahrbahnverengung_beidseitig
+    400018: schild_0002_fahrbahnverengung_links
+    400020: schild_0002_fahrbahnverengung_rechts
+    400022: schild_0002_fussgaenger_kreuzen
+    400024: schild_0002_linkskurve
+    400026: schild_0002_rechtskurve
+    400028: schild_0002_s_kurve
+    400030: schild_0002_spielende_Kinder
+    400032: schild_0002_strassenbahn
+    400034: schild_0002_vorfahrt_achten_a
+    400036: schild_0002_vorfahrt_achten_b
+    400038: schild_0002_wildwechsel
+    400040: //RootNode
+    2000000: Camera
+    2100000: schild_0002
+    2100002: schild_0001c
+    2300000: schild_0002_achtung_a
+    2300002: schild_0002_achtung_b
+    2300004: schild_0002_ampel
+    2300006: schild_0002_baustelle_a
+    2300008: schild_0002_baustelle_b
+    2300010: schild_0002_baustelle_c
+    2300012: schild_0002_bodenwellen
+    2300014: schild_0002_fahrbahnverengung_beidseitig
+    2300016: schild_0002_fahrbahnverengung_links
+    2300018: schild_0002_fahrbahnverengung_rechts
+    2300020: schild_0002_fussgaenger_kreuzen
+    2300022: schild_0002_linkskurve
+    2300024: schild_0002_rechtskurve
+    2300026: schild_0002_s_kurve
+    2300028: schild_0002_spielende_Kinder
+    2300030: schild_0002_strassenbahn
+    2300032: schild_0002_vorfahrt_achten_a
+    2300034: schild_0002_vorfahrt_achten_b
+    2300036: schild_0002_wildwechsel
+    3300000: schild_0002_achtung_a
+    3300002: schild_0002_achtung_b
+    3300004: schild_0002_ampel
+    3300006: schild_0002_baustelle_a
+    3300008: schild_0002_baustelle_b
+    3300010: schild_0002_baustelle_c
+    3300012: schild_0002_bodenwellen
+    3300014: schild_0002_fahrbahnverengung_beidseitig
+    3300016: schild_0002_fahrbahnverengung_links
+    3300018: schild_0002_fahrbahnverengung_rechts
+    3300020: schild_0002_fussgaenger_kreuzen
+    3300022: schild_0002_linkskurve
+    3300024: schild_0002_rechtskurve
+    3300026: schild_0002_s_kurve
+    3300028: schild_0002_spielende_Kinder
+    3300030: schild_0002_strassenbahn
+    3300032: schild_0002_vorfahrt_achten_a
+    3300034: schild_0002_vorfahrt_achten_b
+    3300036: schild_0002_wildwechsel
+    4300000: schild_0002_baustelle_b
+    4300002: schild_0002_strassenbahn
+    4300004: schild_0002_ampel
+    4300006: schild_0002_wildwechsel
+    4300008: schild_0002_spielende_Kinder
+    4300010: schild_0002_vorfahrt_achten_a
+    4300012: schild_0002_baustelle_a
+    4300014: schild_0002_baustelle_c
+    4300016: schild_0002_bodenwellen
+    4300018: schild_0002_fahrbahnverengung_rechts
+    4300020: schild_0002_fahrbahnverengung_links
+    4300022: schild_0002_fahrbahnverengung_beidseitig
+    4300024: schild_0002_fussgaenger_kreuzen
+    4300026: schild_0002_achtung_a
+    4300028: schild_0002_achtung_b
+    4300030: schild_0002_rechtskurve
+    4300032: schild_0002_linkskurve
+    4300034: schild_0002_s_kurve
+    4300036: schild_0002_vorfahrt_achten_b
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schild_0001c
+    second: {fileID: 2100000, guid: 439157b676fc3a2498eaa0bf8c915d7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schild_0002
+    second: {fileID: 2100000, guid: 439157b676fc3a2498eaa0bf8c915d7c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 36
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 2
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 384e8eb235ab5b34fbb63d4c8799d89b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: schild_0001b_druchfahrt_verboten_a
+    100004: schild_0001b_druchfahrt_verboten_b
+    100006: schild_0001b_durchfahrt_verboten_lkw
+    100008: schild_0001b_einfahrt_verboten
+    100010: schild_0001b_kreisverkehr_a
+    100012: schild_0001b_kreisverkehr_b
+    100014: schild_0001b_pfeil_oben_links
+    100016: schild_0001b_pfeil_oben_rechts
+    100018: schild_0001b_pfeil_unten_links_a
+    100020: schild_0001b_pfeil_unten_links_b
+    100022: schild_0001b_pfeil_unten_rechts_a
+    100024: schild_0001b_pfeil_unten_rechts_b
+    100026: //RootNode
+    400000: Camera
+    400002: schild_0001b_druchfahrt_verboten_a
+    400004: schild_0001b_druchfahrt_verboten_b
+    400006: schild_0001b_durchfahrt_verboten_lkw
+    400008: schild_0001b_einfahrt_verboten
+    400010: schild_0001b_kreisverkehr_a
+    400012: schild_0001b_kreisverkehr_b
+    400014: schild_0001b_pfeil_oben_links
+    400016: schild_0001b_pfeil_oben_rechts
+    400018: schild_0001b_pfeil_unten_links_a
+    400020: schild_0001b_pfeil_unten_links_b
+    400022: schild_0001b_pfeil_unten_rechts_a
+    400024: schild_0001b_pfeil_unten_rechts_b
+    400026: //RootNode
+    2000000: Camera
+    2100000: schild_0001
+    2300000: schild_0001b_druchfahrt_verboten_a
+    2300002: schild_0001b_druchfahrt_verboten_b
+    2300004: schild_0001b_durchfahrt_verboten_lkw
+    2300006: schild_0001b_einfahrt_verboten
+    2300008: schild_0001b_kreisverkehr_a
+    2300010: schild_0001b_kreisverkehr_b
+    2300012: schild_0001b_pfeil_oben_links
+    2300014: schild_0001b_pfeil_oben_rechts
+    2300016: schild_0001b_pfeil_unten_links_a
+    2300018: schild_0001b_pfeil_unten_links_b
+    2300020: schild_0001b_pfeil_unten_rechts_a
+    2300022: schild_0001b_pfeil_unten_rechts_b
+    3300000: schild_0001b_druchfahrt_verboten_a
+    3300002: schild_0001b_druchfahrt_verboten_b
+    3300004: schild_0001b_durchfahrt_verboten_lkw
+    3300006: schild_0001b_einfahrt_verboten
+    3300008: schild_0001b_kreisverkehr_a
+    3300010: schild_0001b_kreisverkehr_b
+    3300012: schild_0001b_pfeil_oben_links
+    3300014: schild_0001b_pfeil_oben_rechts
+    3300016: schild_0001b_pfeil_unten_links_a
+    3300018: schild_0001b_pfeil_unten_links_b
+    3300020: schild_0001b_pfeil_unten_rechts_a
+    3300022: schild_0001b_pfeil_unten_rechts_b
+    4300000: schild_0001b_pfeil_unten_links_a
+    4300002: schild_0001b_durchfahrt_verboten_lkw
+    4300004: schild_0001b_pfeil_unten_rechts_a
+    4300006: schild_0001b_druchfahrt_verboten_a
+    4300008: schild_0001b_kreisverkehr_a
+    4300010: schild_0001b_einfahrt_verboten
+    4300012: schild_0001b_pfeil_oben_links
+    4300014: schild_0001b_pfeil_unten_rechts_b
+    4300016: schild_0001b_kreisverkehr_b
+    4300018: schild_0001b_pfeil_oben_rechts
+    4300020: schild_0001b_druchfahrt_verboten_b
+    4300022: schild_0001b_pfeil_unten_links_b
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: schild_0001
+    second: {fileID: 2100000, guid: 598ce6ccb1e570a458adb220ec39e6d7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 36
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 2
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
